@@ -27,7 +27,7 @@ const Footer = () => {
           </div>
           <br />
           <p className="text-xs">
-            By subscribing you agree to with our Privacy Policy and provide
+            By subscribing this you agree to with our Privacy Policy and provide
             consent to receive updates from our company.
           </p>
         </div>
