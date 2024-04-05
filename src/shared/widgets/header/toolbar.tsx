@@ -11,7 +11,7 @@ const Toolbar = () => {
   return (
     <>
       <Button color="primary" className="text-lg">
-        Start Trial
+        Start Your Trial
       </Button>
       {user ? (
         <>
