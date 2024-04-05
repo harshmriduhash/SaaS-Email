@@ -35,7 +35,7 @@ const Banner = () => {
             <span className="font-style">GROW</span>
           </h1>
           <br />
-          <h3 className="text-3xl text-center">Built by newsletter people</h3>
+          <h3 className="text-3xl text-center">Built by Newsletter people</h3>
           <br />
           <div className="flex w-full justify-center">
             <Button color="primary" className="text-xl !p-8">
