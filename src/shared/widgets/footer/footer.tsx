@@ -11,7 +11,7 @@ const Footer = () => {
             <FooterLogo />
           </Link>
           <p className="text-2xl py-2">
-            Get Becodemy updates delivered directly to your inbox.
+            Get updates delivered directly to your inbox.
           </p>
           <div className="flex items-center w-full">
             <input
