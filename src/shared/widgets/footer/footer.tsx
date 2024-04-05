@@ -39,7 +39,7 @@ const Footer = () => {
                 <li className="text-xl pb-4 cursor-pointer">Write</li>
                 <li className="text-xl pb-4 cursor-pointer">Grow</li>
                 <li className="text-xl pb-4 cursor-pointer">Monitize</li>
-                <li className="text-xl pb-4 cursor-pointer">Analayze</li>
+                <li className="text-xl pb-4 cursor-pointer">Analyse</li>
               </ul>
             </div>
 
