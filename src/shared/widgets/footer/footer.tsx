@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="text-lg text-center pb-10">
-        © 2024 Becodemy, Inc. All rights reserved.
+        © 2024 Harsh, Inc. All rights reserved.
       </p>
     </footer>
   );
