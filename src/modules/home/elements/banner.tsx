@@ -31,7 +31,7 @@ const Banner = () => {
         />
         <div className="absolute">
           <h1 className="font-clashDisplay uppercase font-bold text-cyber-ink text-[2.75rem] md:text-[7xl] lg:text-[4rem] xl:text-[5.75rem] max-w-4xl mx-auto text-center z-10">
-            NEWSLETTER PLATFORM BUILT FOR 
+            NEWSLETTER PLATFORM BUILT TO
             <span className="font-style">GROW</span>
           </h1>
           <br />
